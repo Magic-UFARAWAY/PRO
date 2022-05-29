@@ -1,0 +1,40 @@
+*{
+    padding:0;
+    margin: auto;
+
+}
+
+
+#header-img {
+    display:flex ;
+    justify-content: flex-start ;
+          
+}
+  /*use this to style the color of the text of the nav-links  #nav-linksc{
+
+    }       -------------
+    */
+
+img {
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+}
+
+
+
+.nav-link, li {
+    display:flex ;
+    justify-content: flex-end ;
+    padding: 20px 
+
+}
+
+#bg-image{
+    background-image: url('UFARAWAY PG\BG IMAGE\BG-IMG.jpg');
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+}
+
+
